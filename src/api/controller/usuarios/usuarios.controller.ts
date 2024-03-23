@@ -8,4 +8,5 @@ class atividades {
   }
 }
 
+
 export default new atividades()
